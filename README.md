@@ -42,7 +42,8 @@ What is the yearly trend in a particular state, say ‘Andhra Pradesh’?
 packages :
 numpy, pandas, matplotlib.pyplot, datetime
 
-#Instructions:
+
+## Instructions:
 1. Open ipynb file
 2. Click "Open in Colab" button or click the Colab link
 3. Upload the dataset file
