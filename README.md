@@ -14,6 +14,7 @@ Control Board of India under the National Data Sharing and Accessibility Policy
 The dataset has 13 columns which are:
 
 • stn_code: Station Code
+
 • sampling_date: Date of sampling (note how this is formatted)
 
 • state: State
@@ -43,10 +44,8 @@ SPM, RSPM, PM2.5 values are the parameters used to measure the quality of air ba
 on the number of particles present in it. Using these values, we are going to identify the
 air quality over the period of time in different states of India
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Usage
+packages :
+numpy, pandas, matplotlib.pyplot, datetime
 
-Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
